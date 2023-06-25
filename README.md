@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋</h1>
 <p align="center">
-  <h3 align="center">Welcome to my Github 🐔  
-
-I put pretty much everything I do here, from playing around and general experimentation, to my own personal hobby projects. </h3>
+  <h3 align="center">Welcome to my Github 🐔 </h3>
+</p>
+<p>
+  <h3 align="left">I put pretty much everything I do here, from playing around and general experimentation, to my own personal hobby projects. </h3>
 </p>
 
 <br />
