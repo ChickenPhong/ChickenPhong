@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋</h1>
-<p align="center">
-  <h3 align="center">Welcome to my Github 🐔 </h3>
+<img align="right" alt="Coding" width="500" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<h1 align="left">Hi 👋</h1>
+<p align="left">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+  <h3 align="left">Welcome to my Github 🐔 </h3>
 </p>
 <p>
   <h3 align="left">I put pretty much everything I do here, from playing around and general experimentation, to my own personal hobby projects. </h3>
@@ -8,29 +10,16 @@
 
 <br />
 
-## 📫 How to reach me:
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)]()
-
-<p align="center">
-  <a href="https://www.facebook.com/tqphong2004" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/ChickenPhong" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/@noobplayer000" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/asami_kiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tqphong2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@noobplayer000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
-
-## Skills:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  
+   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 
 ## Activities:
 
@@ -48,17 +37,4 @@
   </tr>
 </table>
 
-# Certificates:
 
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-
-- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1)
-- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to JavaScript](https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Audio Classification with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP)
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Python](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python)
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Machine Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning)
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning)
