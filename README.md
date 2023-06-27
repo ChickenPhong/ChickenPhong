@@ -5,10 +5,10 @@
 </p>
 <p>
   <h3 align="left">I put pretty much everything I do here, from playing around and general experimentation, to my own personal hobby projects. </h3>
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ileriayo" /> </p>
 </p>
 <br />
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">👨‍💻 Connect with me </h3>
 <p align="left">
 <a href="https://twitter.com/asami_kiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tqphong2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
